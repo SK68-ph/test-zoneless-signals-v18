@@ -1,4 +1,5 @@
 # SignalsV18
+Test for new Angular v18 zoneless and signals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
